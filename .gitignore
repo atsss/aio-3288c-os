@@ -6,3 +6,6 @@ build/tmp/
 
 # Some log files from scripts
 *.log
+
+# swp files
+*.swp
